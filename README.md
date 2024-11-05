@@ -1,70 +1,29 @@
-# Getting Started with Create React App
+[https://devpost.com/software/akta-life
+](url)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Inspiration
 
-## Available Scripts
+Navigating college courses can be overwhelming, especially for first-generation and non-traditional students who lack clear guidance. We wanted to create a platform that simplifies this process, using AI to provide personalized recommendations that empower students to make informed choices and enhance their educational experience.
 
-In the project directory, you can run:
+## What it does
 
-### `npm start`
+Akta.life is an AI-driven platform that serves as a personalized course hub. It analyzes individual learning preferences, academic history, and career goals to recommend courses and professors tailored to each student’s unique needs. Users can access detailed insights on course expectations, professor teaching styles, and success rates, helping them find the best fit and avoid mismatches that can lead to academic setbacks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## How we built it
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+We developed Akta.life using React and a robust AI recommendation engine. We leveraged data on course structures and professor profiles to build an algorithm that delivers targeted recommendations. The platform also integrates accessibility features to cater to diverse learning backgrounds.
 
-### `npm test`
+## Challenges we ran into
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+A first-time hackathon is challenging. Learning how to assign roles and delegate tasks was time-consuming. Understanding how to correctly set up an idea that would deliver a solid value proposition to our target audience of students was difficult.
 
-### `npm run build`
+## Accomplishments that we're proud of
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+We’re proud of developing an accessible, intuitive platform that demystifies the course selection process. Our beta testing showed high user satisfaction, with many students reporting an improved sense of confidence and preparedness in their academic choices. We’re also proud of creating a culturally meaningful brand that resonates globally.
+## What we learned
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+We learned how students can further accelerate their learning with guided support tools. Coming from the perspective of college freshman, we've been put head first through the challenges of missing the nuances expressed my academic advisors on college life and how to manage our time. We hope that Akta can be a utility to empower students beginning their educational journey in higher ed.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## What's next for Akta.life
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+We plan to expand Akta.life’s reach to include more institutions and integrate resources like peer mentorship and academic support links. Future updates will enhance the recommendation engine with predictive analytics, empowering students with real-time insights into the best paths for achieving their goals.

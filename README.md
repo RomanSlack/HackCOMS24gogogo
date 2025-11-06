@@ -1,5 +1,5 @@
-[https://devpost.com/software/akta-life
-](url)
+https://devpost.com/software/akta-life
+
 
 ## Inspiration
 
